@@ -1,0 +1,38 @@
+body{
+    text-align: center;
+}
+p{
+    font-style: italic;
+    text-decoration: underline;
+    
+}
+h2{
+    text-align: center;
+}
+div{
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+}
+
+.facts{
+    font-size: larger;
+    display: inline-block;
+    font-family: cursive;
+    background-color: purple;
+    border-radius: 2rem; 
+}
+
+.goals{
+    font-size: medium;
+    text-align: center;
+    display: block;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;  
+    background-color: seagreen;
+    border: 10rem;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    padding: 5px;  
+}
+
